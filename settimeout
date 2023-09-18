@@ -1,0 +1,5 @@
+//Module package CORE
+setTimeout(function () {
+
+     console.log("ishga tushdi");
+},1000);
